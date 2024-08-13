@@ -1,0 +1,22 @@
+{
+  "name": "chinatown",
+  "version": "1.0.0",
+  "description": "Chinese restaurant app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendy174/chinatown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendy174/chinatown/issues"
+  },
+  "homepage": "https://github.com/wendy174/chinatown#readme",
+  "dependencies": {
+    "tesseract.js": "^5.1.0"
+  }
+}
